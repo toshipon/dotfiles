@@ -1,0 +1,9 @@
+[user]
+	name = toshipon
+	email = toshipon123@gmail.com
+
+[paper]
+    log = diff-highlight | less
+    show = diff-highlight | less
+    diff = diff-highlight | less
+
